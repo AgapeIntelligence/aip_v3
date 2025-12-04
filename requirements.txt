@@ -1,0 +1,6 @@
+torch
+numpy
+pynacl
+cryptography
+base58
+matplotlib
